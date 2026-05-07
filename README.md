@@ -38,4 +38,4 @@ This system replaces manual attendance tracking with a faster, more accurate, an
 ---
 
 ## 👨‍💻 Author
-Student Project
+##Milkesa Tesema
